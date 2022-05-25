@@ -1,56 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# hellomicroverse
 
-> Description the project.
+> This is a project from Microvrse exercises.
+> This project has the goal of: 
+document your work in a professional way.
+Create a new GitHub repo.
+Create a new branch according to the GitHub flow rules.
+Add a .gitignore file.
+Set up a linter for HTML and CSS 
+Add descriptive README file to your project 
+Add 3 files (each one in a separate commit):
+A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.
+A .css file that includes one class with styles for your header (make it in your favorite color).
+A test.md file with the text "This file should be ignored by git".
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Usit on a text editor 
+Use git and github
+
 ### Setup
+
+Use it with a new branch, this is the basic commands that you could use: 
+(git add .  )
+(git commit -m "bla, bla") 
+(git push)
 
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Install linters in order to use it. 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jessemccallums](https://github.com/Jessemccallums)
+- Twitter: [@mccallumshope](https://twitter.com/mccallumshope)
+- LinkedIn: [Jesse McCallums](https://www.linkedin.com/in/jesse-mccallums-7225a4237/)
 
 ## 🤝 Contributing
 
@@ -64,9 +62,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Discipline is important
+- The habits are important for our development
 
 ## 📝 License
 
